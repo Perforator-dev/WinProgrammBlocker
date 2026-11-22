@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\WinProgrammBlocker\WinProgrammBlocker\bin\Debug\WinProgrammBlocker.exe.config
+C:\Users\USER\source\repos\WinProgrammBlocker\WinProgrammBlocker\bin\Debug\WinProgrammBlocker.exe
+C:\Users\USER\source\repos\WinProgrammBlocker\WinProgrammBlocker\bin\Debug\WinProgrammBlocker.pdb
+C:\Users\USER\source\repos\WinProgrammBlocker\WinProgrammBlocker\obj\Debug\WinProgrammBlocker.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WinProgrammBlocker\WinProgrammBlocker\obj\Debug\WinProgrammBlocker.Properties.Resources.resources
+C:\Users\USER\source\repos\WinProgrammBlocker\WinProgrammBlocker\obj\Debug\WinProgrammBlocker.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WinProgrammBlocker\WinProgrammBlocker\obj\Debug\WinProgrammBlocker.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WinProgrammBlocker\WinProgrammBlocker\obj\Debug\WinProgrammBlocker.exe
+C:\Users\USER\source\repos\WinProgrammBlocker\WinProgrammBlocker\obj\Debug\WinProgrammBlocker.pdb
